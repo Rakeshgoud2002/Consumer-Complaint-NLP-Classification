@@ -1,5 +1,7 @@
 # Consumer Complaint NLP Classification
 
+![Consumer Complaint NLP Classification](consumer-complaint-nlp-banner.png)
+
 ## Project Overview
 
 Financial institutions receive large volumes of customer complaints that need to be classified and routed to the appropriate product or service category.
